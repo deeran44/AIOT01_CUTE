@@ -60,8 +60,8 @@
 
 4.1128手把手品檢.pdf。
 
-## 實作課程
-### 1.表面瑕疵檢測
+### 實作課程
+#### 1.表面瑕疵檢測
 連結: https://github.com/Jyunci/AIoT_cute_surface_inspection
 
 檔案：UNet.ipynb
@@ -72,7 +72,7 @@
 
 連結：https://www.kaggle.com/c/severstal-steel-defect-detection
 
-### 2.刀具磨耗預測
+#### 2.刀具磨耗預測
 連結: https://github.com/Jyunci/AIoT_cute/
 
 檔案: tool_wear_classification.ipynb
@@ -82,4 +82,7 @@
 資料來源：公開資料集 Kaggle 平台 --- CNC Mill Tool Wear。
 
 連結：https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
+
+
+##中興大學 范耀中講師
 
